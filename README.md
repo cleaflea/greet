@@ -18,3 +18,5 @@
 ```
 module.exports = function / object / array / string ...
 ```
+
+* if you want to execute the binary files after npm install you should use -g option
