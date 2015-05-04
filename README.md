@@ -8,6 +8,8 @@
 * npm init
 * npm link
 * npm unlink -g packagename
+* npm pack
+* npm install xxx [--save] (--save option will modify package.json)
 
 ## hint
 
